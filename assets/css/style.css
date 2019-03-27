@@ -1,0 +1,14 @@
+body {
+    background: url(../images/background.jpg);
+    background-size: cover;
+    color: white;
+}
+
+#box1 {
+    margin-left: 45%;
+    margin-top: 20%;
+}
+
+#questionsbox {
+    margin-left: 35%;
+}
